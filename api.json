@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 17,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://github.com/TuranGame/brilliant/raw/refs/heads/main/game.zip",
+    "URL_GAME_FILES" : "https://github.com/TuranGame/brilliant/releases/download/brilliant/game.zip",
     "URL_GAME_FILES_UPD" : "https://github.com/TuranGame/brilliant/raw/refs/heads/main/files_upd.zip",
     "URL_VK": "https://t.me/Milliy_Rp",
     "URL_DISCORD": "https://discord.gg/mSFetk5EW",
